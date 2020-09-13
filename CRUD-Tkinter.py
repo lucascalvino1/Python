@@ -14,7 +14,7 @@ coments = StringVar()
 pass_word= StringVar()
 
 
-base = "Baseapp2"
+base = "Baseapp"
 #------Funciones ppales ------#
 
 def Connect():
